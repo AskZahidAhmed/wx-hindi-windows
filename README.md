@@ -1,1 +1,1 @@
-# wx-hindi-windows
+# wx-hindi setup for windows
